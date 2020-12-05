@@ -1,0 +1,2 @@
+﻿1.安装了github desktop for windows
+2.搜索了一个基于java的双色球程序，通过idea上传至git，保存在双色球项目的java01分支
